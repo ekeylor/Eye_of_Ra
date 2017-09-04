@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameLogic.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameLogic.cs" Line="101" Column="1" />
+      <File FileName="Assets/Scripts/EyeOfRaRay.cs" Line="34" Column="97" />
+      <File FileName="Assets/Scripts/GlyphSelection.cs" Line="10" Column="85" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
